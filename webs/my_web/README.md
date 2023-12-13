@@ -1,0 +1,1 @@
+this is a django project where i intend to create a login/signup form that is functional with a powerful UI layout. and also i might connect the signup form with my todo webapp. most importantly this project is meant for the development of my web dev phase as a novice.
